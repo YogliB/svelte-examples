@@ -21,8 +21,6 @@
   </button>
 </div>
 
-<style lang="scss">
-  :global {
+<style lang="scss" global>
     @use "@material/button/styles";
-  }
 </style>
